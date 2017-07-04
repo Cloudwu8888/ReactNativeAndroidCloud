@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "821486993903",
+    "firebase_url": "https://chmin-androidxamarin.firebaseio.com",
+    "project_id": "chmin-androidxamarin",
+    "storage_bucket": "chmin-androidxamarin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821486993903:android:35b3282ea5d4b023",
+        "android_client_info": {
+          "package_name": "HelloAndroid.HelloAndroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821486993903-46qmtp9cpcfql2cvnrodbj9u60mb3jp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9lG-zC8JvNJeIaxVHNsS5ZB5WagP1d8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821486993903:android:fa27d50889bbdba0",
+        "android_client_info": {
+          "package_name": "com.myfirstreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821486993903-46qmtp9cpcfql2cvnrodbj9u60mb3jp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9lG-zC8JvNJeIaxVHNsS5ZB5WagP1d8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
