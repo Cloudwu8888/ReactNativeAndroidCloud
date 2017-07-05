@@ -110,9 +110,9 @@ android {
                 keyAlias MYAPP_RELEASE_KEY_ALIAS
                 keyPassword MYAPP_RELEASE_KEY_PASSWORD
             }
-        }*/
+        }
 
-    }
+    }*/
     splits {
         abi {
             reset()
