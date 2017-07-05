@@ -73,7 +73,6 @@ import com.android.build.OutputFile
  */
 
 apply from: "../../node_modules/react-native/react.gradle"
-
 /**
  * Set this to true to create two separate APKs instead of one:
  *   - An APK that only works on ARM devices
@@ -91,7 +90,7 @@ def enableProguardInReleaseBuilds = false
 
 android {
     compileSdkVersion 25
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '25.0.3'
 
     defaultConfig {
         applicationId "com.myfirstreactnative"
@@ -103,7 +102,7 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
     }
-    signingConfigs {
+   /* signingConfigs {
         release {
             if (project.hasProperty('MYAPP_RELEASE_STORE_FILE')) {
                 storeFile file(MYAPP_RELEASE_STORE_FILE)
@@ -111,7 +110,7 @@ android {
                 keyAlias MYAPP_RELEASE_KEY_ALIAS
                 keyPassword MYAPP_RELEASE_KEY_PASSWORD
             }
-        }
+        }*/
 
     }
     splits {
